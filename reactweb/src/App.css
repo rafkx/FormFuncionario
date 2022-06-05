@@ -1,0 +1,55 @@
+.App-header {
+  background-color: #202d33;
+  overflow: auto;
+  color: white;
+}
+
+.App-header h1 {
+  float: left;
+  padding: 0;
+  color: #27a337;
+  font-size: xx-large;
+}
+
+.App-header ul {
+  list-style: none;
+  float: right;
+  margin: 0;
+}
+
+.App-header ul li {
+  float: left;
+  display: block;
+  padding-top: 35px;
+  text-align: center;
+}
+
+.container {
+  margin: auto;
+  max-width: 1100px;
+  overflow: auto;
+  padding-bottom: 0 20px;
+}
+
+#quadro {
+  background-color: #202d33;
+  max-width: 1100px;
+  overflow: auto;
+  padding-bottom: 0 20px;
+  margin: auto;
+  margin-top: 20px;
+  margin-bottom: 50px;
+  color: #ffffff;
+}
+
+#quadro h2{
+  padding-left: 20px ; 
+}
+
+.formClass h4{
+  padding-left: 20px;
+}
+
+#quadro .formClass .opcao {
+  background-color: #202d33;
+}
